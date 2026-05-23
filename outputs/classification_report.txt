@@ -1,0 +1,10 @@
+Best model: CatBoost
+
+                precision    recall  f1-score   support
+
+      Consumer       1.00      1.00      1.00     16000
+Business proxy       1.00      1.00      1.00      5000
+
+      accuracy                           1.00     21000
+     macro avg       1.00      1.00      1.00     21000
+  weighted avg       1.00      1.00      1.00     21000

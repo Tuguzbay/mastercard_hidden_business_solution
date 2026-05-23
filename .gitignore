@@ -1,0 +1,4 @@
+data/*.parquet
+outputs/card_features.parquet
+__pycache__/
+*.pyc
